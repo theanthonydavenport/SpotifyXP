@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/SpotifyXP/SpotifyXP">
+  <a href="https://github.com/WolvenPortXP/WolvenPortXP">
     <img src="https://raw.githubusercontent.com/SpotifyXP/SpotifyXP/main/src/main/resources/spotifyxp.png" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">SpotifyXP</h3>
+<h3 align="center">WolvenPortXP</h3>
  <p align="center">
-    A working Spotify Player for Windows XP.
+    A working Stream-IFY Player for Windows XP.
     <br/>
     <br/>
     <a href="https://github.com/SpotifyXP/SpotifyXP/wiki">SpotifyXP Wiki</a>
@@ -19,7 +19,7 @@
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [The SpotifyXP Wiki](#the-spotifyxp-wiki)
+* [The WolvenPortXP Wiki](#the-WolvenportXP-wiki)
 * [System Requirements](#system-requirements)
 * [Translating](#translating)
 * [Built With](#built-with)
@@ -36,15 +36,15 @@
 Stable version
 ![Screen Shot](SpotifyXPShowStable.png)
 
-We originally developed SpotifyXP for a computer that runs Windows XP.
+We originally developed WolvenPortXP for a computer that runs Windows XP.
 
-<h3>Why use SpotifyXP:</h3>
+<h3>Why use WolvenPortXP:</h3>
 
-On December 2022, Spotify shutdown it's last version for Windows XP, making this application the only way to listen to Spotify.
+On December 2022, Spotify shutdown it's last version for Windows XP, making this application the only way to listen to Stream-IFY.
 
 ## The SpotifyXP Wiki
 
-The SpotifyXP Wiki is available to help when using SpotifyXP.
+The WolvenPortXP Wiki is available to help when using WolvenPortXP.
 Check existing issues before reporting a new one.
 If not existing, the team'll resolve it 😊
 
@@ -75,7 +75,7 @@ If not existing, the team'll resolve it 😊
 
 ## Built With
 
-SpotifyXP is build with <a href="https://github.com/SpotifyXP/SpotifyXP/blob/main/src/main/resources/setup/thirdparty.html">Thirdparty.html</a>
+WolvenPortXP is built with <a href="https://github.com/SpotifyXP/SpotifyXP/blob/main/src/main/resources/setup/thirdparty.html">Thirdparty.html</a>
 
 ## Getting Started
 
@@ -90,7 +90,7 @@ SpotifyXP is build with <a href="https://github.com/SpotifyXP/SpotifyXP/blob/mai
 ### Install instructions
 
 1. Download the latest version under the Actions or Releases tab
-Run SpotifyXP.jar, then review the T&Cs.
+Run WolvenPortXP.jar, then review the T&Cs.
 
 
 ## Usage
@@ -100,7 +100,7 @@ See **New Login Methods*.
 Then, enjoy streaming.
 
 ## New login methods
-1. Zeroconf: In a modern Spotify client, choose SpotifyXP under devices to authenticate (**Requires Spotify Premium**).
+1. Zeroconf: In a modern Spotify client, choose WolvenPortXP under devices to authenticate (**Requires Spotify Premium**).
 2. OAuth: Log into Spotify in the auto-opened browser window, confirm SpotifyXP connection, then close it. (needs a HTML5 supported browser)
 
 ## Compiling
@@ -120,7 +120,7 @@ Just make your desired changes and open a pull request
 
 ## License
 
-Copyright [2025] [Gianluca Beil]
+Copyright [2025] [Gianluca Beil & Davenport Media]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
