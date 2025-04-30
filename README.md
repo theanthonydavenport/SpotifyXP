@@ -1,25 +1,25 @@
 <p align="center">
-  <a href="https://github.com/WolvenPortXP/WolvenPortXP">
-    <img src="https://raw.githubusercontent.com/SpotifyXP/SpotifyXP/main/src/main/resources/spotifyxp.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/NTify/NTify">
+    <img src="https://raw.githubusercontent.com/NTify/NTify/main/src/main/resources/NTify.png" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">WolvenPortXP</h3>
+<h3 align="center">NTify</h3>
  <p align="center">
-    A working Stream-IFY Player for Windows XP.
+    A working NTify Player for Windows XP.
     <br/>
     <br/>
-    <a href="https://github.com/SpotifyXP/SpotifyXP/wiki">SpotifyXP Wiki</a>
+    <a href="https://github.com/NTify/NTify/wiki">NTify Wiki</a>
     .
-    <a href="https://github.com/SpotifyXP/SpotifyXP/issues">Report Issue</a>
+    <a href="https://github.com/NTify/NTify/issues">Report Issue</a>
     .
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/SpotifyXP/SpotifyXP?color=dark-green) ![Issues](https://img.shields.io/github/issues/SpotifyXP/SpotifyXP) ![Downloads](https://img.shields.io/github/downloads/SpotifyXP/SpotifyXP/total)
+![Contributors](https://img.shields.io/github/contributors/NTify/NTify?color=dark-green) ![Issues](https://img.shields.io/github/issues/NTify/NTify) ![Downloads](https://img.shields.io/github/downloads/NTify/NTify/total)
 
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
-* [The WolvenPortXP Wiki](#the-WolvenportXP-wiki)
+* [The NTify Wiki](#the-NTify-wiki)
 * [System Requirements](#system-requirements)
 * [Translating](#translating)
 * [Built With](#built-with)
@@ -34,17 +34,17 @@
 ## About The Project
 
 Stable version
-![Screen Shot](SpotifyXPShowStable.png)
+![Screen Shot](NTifyShowStable.png)
 
-We originally developed WolvenPortXP for a computer that runs Windows XP.
+We originally developed NTify for a computer that runs Windows XP.
 
-<h3>Why use WolvenPortXP:</h3>
+<h3>Why use NTify:</h3>
 
 On December 2022, Spotify shutdown it's last version for Windows XP, making this application the only way to listen to Stream-IFY.
 
-## The SpotifyXP Wiki
+## The NTify Wiki
 
-The WolvenPortXP Wiki is available to help when using WolvenPortXP.
+The NTify Wiki is available to help when using NTify.
 Check existing issues before reporting a new one.
 If not existing, the team'll resolve it 😊
 
@@ -75,7 +75,7 @@ If not existing, the team'll resolve it 😊
 
 ## Built With
 
-WolvenPortXP is built with <a href="https://github.com/SpotifyXP/SpotifyXP/blob/main/src/main/resources/setup/thirdparty.html">Thirdparty.html</a>
+NTify is built with <a href="https://github.com/NTify/NTify/blob/main/src/main/resources/setup/thirdparty.html">Thirdparty.html</a>
 
 ## Getting Started
 
@@ -90,7 +90,7 @@ WolvenPortXP is built with <a href="https://github.com/SpotifyXP/SpotifyXP/blob/
 ### Install instructions
 
 1. Download the latest version under the Actions or Releases tab
-Run WolvenPortXP.jar, then review the T&Cs.
+Run NTify.jar, then review the T&Cs.
 
 
 ## Usage
@@ -100,12 +100,12 @@ See **New Login Methods*.
 Then, enjoy streaming.
 
 ## New login methods
-1. Zeroconf: In a modern Spotify client, choose WolvenPortXP under devices to authenticate (**Requires Spotify Premium**).
-2. OAuth: Log into Spotify in the auto-opened browser window, confirm SpotifyXP connection, then close it. (needs a HTML5 supported browser)
+1. Zeroconf: In a modern Spotify client, choose NTify under devices to authenticate (**Requires Spotify Premium**).
+2. OAuth: Log into Spotify in the auto-opened browser window, confirm NTify connection, then close it. (needs a HTML5 supported browser)
 
 ## Compiling
 
-Clone repo with '--recursive', run init.py, build.py, find executable at target/SpotifyXP.jar.
+Clone repo with '--recursive', run init.py, build.py, find executable at target/NTify.jar.
 
 ## Contributing
 
@@ -141,6 +141,6 @@ limitations under the License.
 ## Special Thanks
 
 * [StapleBacon5037](https://github.com/StapleBacon5037) - For improving the readme
-* [skippster1337](https://github.com/skipster1337) - For listing SpotifyXP on his site
+* [skippster1337](https://github.com/skipster1337) - For listing NTify on his site
 * [Jri-creator](https://github.com/Jri-creator) - For the new setup image and improving the readme
 * [Anthony](https://twitter.com/intent/user?screen_name=anthonydavenpod) - For improving, spell correcting and simpifying the readme & bug stuff.
