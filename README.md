@@ -4,7 +4,7 @@
   </a>
 <h3 align="center">NTify</h3>
  <p align="center">
-    A working NTify Player for Windows XP.
+    A working Spotify Player for Windows XP.
     <br/>
     <br/>
     <a href="https://github.com/NTify/NTify/wiki">NTify Wiki</a>
